@@ -10,6 +10,10 @@ This extension, "Copy Element Styles", enables users to quickly extract CSS styl
 
 Ensure that your project workspace in VS Code is properly set up with accessible HTML and CSS files. The paths must be correct and files must be readable by the extension.
 
+## Download extension
+
+Download the extension from the Release page: https://github.com/RANUX/copy-element-styles/releases/tag/v1.0.0 and install it
+
 ## Extension Commands
 
 This extension contributes the following command: 
@@ -35,7 +39,7 @@ Alternatively, you can install it directly within VS Code through the Extensions
 
 Currently, the extension requires that the CSS file path be entered manually and only supports `.css` files. Future updates may include automated CSS file detection and support for other stylesheets formats like `.scss`.
 ## Release Notes
-### 1.0.0
+### 0.0.1
 
 Initial release of Copy Element Styles:
 - Copy CSS properties associated with HTML classes to the clipboard.
