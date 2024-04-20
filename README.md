@@ -12,7 +12,7 @@ Ensure that your project workspace in VS Code is properly set up with accessible
 
 ## Download extension
 
-Download the extension from the Release page: https://github.com/RANUX/copy-element-styles/releases/tag/v1.0.0 and install it
+Download the extension from the Release page: https://github.com/RANUX/copy-element-styles/releases/tag/v0.0.1 and install it
 
 ## Extension Commands
 
